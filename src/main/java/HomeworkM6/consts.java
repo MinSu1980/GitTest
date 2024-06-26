@@ -8,5 +8,6 @@ public class consts {
     public static final double MANAGER_DEFAULT_SALARY = 10000;
     public static final double ACCOUNTANT_DEFAULT_SALARY = 7000;
     public static final double CLERK_DEFAULT_SALARY = 5000;
+    public static final double CLERK1_DEFAULT_SALARY = 5000;
 
 }
